@@ -5,38 +5,35 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Credit](#credit)
-* [Licensing](#licensing)
 
 ## Description
 
-This application is used to generate descriptive README files. [readmegenerator](pic.jpg)
+It creates README files. [readmegenerator](https://drive.google.com/file/d/1KtEVclMVgqkTU68j_Gi47AA-0CjmgJpD/view?usp=sharing)
        
-Purpose: All apps should have a good README file to showcase how the work and how they were developed. This makes that process easy and quick.
+Purpose: This app helps to streamline the process of creating a README file.
 
-The app asks the user a series of questions and compiles a README file from the input.
+The app asks the user a series of questions and compiles the input into a README file.
 
 Technologies Used
 
-* node.js
-*  inquirer
+* node
+* inquirer
 
 Challenges: Formatting and asynchronous methods
 
-Lessons Learned: Using when in the prompt to allow for conditional questions.
+Lessons Learned: Using when to create conditional prompts in inquirer.
 
-Future Development: I would like to break up the code into functions to make the app more developer friendly.
+Future Development: Use functions to encapsulate portions of the app to make it more developer friendly.
 
 ## Installation 
  
-User must have node.js installed and then install inquirer
+The user must have node.js installed and then install inquirer.
 
 ## Credit 
  
-Me, myself, and Roman
+Myself, for perservering against all odds. And the instructional staff for dealing with my need to overcomplicate things.
 
-## Licensing 
- 
-This is where licensing information would go.
+
 
 
 
