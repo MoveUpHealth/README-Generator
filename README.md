@@ -31,7 +31,7 @@ The user must have node.js installed and then install inquirer.
 
 ## Credit 
  
-Myself, for perservering against all odds. And the instructional staff for dealing with my need to overcomplicate things.
+Myself, for persevering against all odds. And the instructional staff for dealing with my need to overcomplicate things.
 
 
 
